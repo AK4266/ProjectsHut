@@ -1551,5 +1551,23 @@
       "tech": ["ReactJS" , "Tailwind CSS", "Firebase"]
     }
   ]
+},
+  {
+  "github_username": "AK4266",
+  "Social_media": {
+    "gitHub": "https://github.com/AK4266",
+    "LinkedIn": "https://www.linkedin.com/in/anand-k-bb4472230/",
+    "Instagram": "https://www.instagram.com/anand_komati/?next=%2F",
+    "YouTube": "",
+    "Twitter": "https://twitter.com/AnandKomati"
+  },
+  "Projects": [
+    {
+      "link": "https://adoresalon.netlify.app/",
+      "title": "Adore Salon",
+      "description": "Its a simple salon website where the user can book the appointment",
+      "tech": ["Javascript", "HTML", "CSS"]
+    }
+  ]
 }
 ]
